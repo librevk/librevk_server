@@ -1,3 +1,10 @@
+## Plans
+
+ * Old vk-like functionality
+ * Groups with optional marketplaces
+
+## Older content goes below, to be edited with time
+
 <img src="https://git.pleroma.social/pleroma/pleroma/uploads/8cec84f5a084d887339f57deeb8a293e/pleroma-banner-vector-nopad-notext.svg" width="300px" />
 
 ## About 
